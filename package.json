@@ -1,7 +1,7 @@
 {
-  "name": "foundry-starter",
+  "name": "eip-2535-foundry",
   "version": "1.0.0",
-  "description": "Minimal Template for Foundry Projects",
+  "description": "EIP 2535 Diamond Standard Implementation with Foundry",
   "author": "Sunny",
   "license": "MIT",
   "files": [
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunny0714/foundry-starter.git"
+    "url": "git+https://github.com/sunny0714/eip-2535-foundry.git"
   },
   "bugs": {
-    "url": "https://github.com/sunny0714/foundry-starter/issues"
+    "url": "https://github.com/sunny0714/eip-2535-foundry/issues"
   },
   "scripts": {
     "setup": "make clean && make build",
